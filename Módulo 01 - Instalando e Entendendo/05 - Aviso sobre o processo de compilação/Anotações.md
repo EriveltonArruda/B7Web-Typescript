@@ -1,0 +1,1 @@
+Esse processo de compilação feito até o momento foi para entendermos como funciona na prática, depois de aprender o básico de TS, vamos aprender a criar um arquivo de configuração do Typescript para automatizar algumas das propriedades, o que fazer/não fazer, etc.
