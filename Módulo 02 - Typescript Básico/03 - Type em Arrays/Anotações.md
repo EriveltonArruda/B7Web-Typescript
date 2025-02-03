@@ -1,0 +1,1 @@
+O Typescript é inteligente, então se você criou um array de números e tentou adicionar uma string via push(), ele não deixará, isso porque não é somente na hora da criação da variável que ele presta atenção, mas sim durante o uso geral de todo o código
