@@ -8,4 +8,4 @@ Sempre que você criar uma função que recebe um objeto e você está usando pr
 
 Para definir os types do objeto, colocamos dois pontos depois do parâmetro da função e em seguida criamos um objeto para colocar cada propriedade do objeto e o tipo dela.
 
-Se você tiver mais de um objeto na função, você deverá definir os tipos de cada propriedade de cada objeto.
+Se você tiver mais de um objeto nos parâmetros da função, você deverá definir os tipos de cada propriedade de cada objeto.
