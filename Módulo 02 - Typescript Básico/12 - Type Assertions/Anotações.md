@@ -12,4 +12,4 @@ Isso aconteceu porque quando seleciono um objeto no HTML, ele é um HTMLElement 
 
 Nesse exemplo da aula estamos simulando os dados de um input e um input tem value (div não tem por exemplo).
 
-Então específico qual elemento ele é (HTMLInputElement).
+Então especifico qual elemento ele é (HTMLInputElement) e não terei mais erros.
