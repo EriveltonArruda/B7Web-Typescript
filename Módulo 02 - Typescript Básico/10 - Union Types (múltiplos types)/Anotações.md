@@ -1,3 +1,5 @@
+## O que é?
+
 Union Types = variável/parâmetro com múltiplos tipos
 
 No exemplo de idade pegando o DOM, lembre-se que o innerHTML retorna uma string, então se a variável idade tivesse somente o tipo number, daria erro.

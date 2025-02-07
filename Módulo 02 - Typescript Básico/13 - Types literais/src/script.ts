@@ -2,6 +2,7 @@ let nome: "Erivelton" = "Erivelton"; // Sempre será Erivelton
 
 nome = "Pedro"; // Não será reatribuido por conta do type literal.
 
+// Usando com Union Types
 function mostrarTexto(texto: string, alinhamento: "left" | "right" | "center") {
   return `<div style=text-align${alinhamento}>${texto}</div>`;
 }
@@ -17,11 +18,7 @@ type VerdadeiroFalso = true | false;
 
 // Só aceitará true ou false
 function temNome(nome: string): boolean {
-  if (nome !== "") {
-    return true;
-  } else {
-    return false;
-  }
+  return nome !== "" ? true : false;
 }
 
 // Outro exemplo:

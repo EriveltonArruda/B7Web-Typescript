@@ -7,7 +7,6 @@ function removerElemento(el: HTMLElement): void {
 removerElemento(document.getElementById("teste"));
 
 // Outro exemplo
-
 type QualquerFuncao = () => void;
 
 const algo: QualquerFuncao = () => {

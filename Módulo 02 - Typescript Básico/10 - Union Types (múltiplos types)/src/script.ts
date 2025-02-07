@@ -1,4 +1,4 @@
-// idade pode ser string ou number
+// idade pode ser string ou number (Union Types)
 let idade: string | number = 33;
 
 idade = document.getElementById("idade")!.innerHTML;

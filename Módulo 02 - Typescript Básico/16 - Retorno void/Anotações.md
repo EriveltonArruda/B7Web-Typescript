@@ -1,5 +1,7 @@
 ## O que é?
 
+O tipo void em TypeScript é utilizado para indicar que uma função não retorna nenhum valor. Em outras palavras, quando uma função tem o tipo void, ela não deve retornar nada explicitamente. Esse tipo é principalmente usado em funções que realizam ações, mas não precisam fornecer um resultado.
+
 É quando uma função recebe os parâmetros para executar, mas ela não tem nenhum retorno, ou seja, você não espera nenhum tipo de retorno dessa função.
 
 Um exemplo é uma função que remove algum elemento da tela, você não vai armazenar essa função em uma variável, nada, você apenas quer que ela execute e acabou, o void serve pra isso.
