@@ -15,6 +15,12 @@ Aqui será instalado globalmente, geralmente só se instala o typescript no proj
 
 Para instalar, siga a documentação.
 
+Para ver a versão digite:
+
+```
+tsc --version
+```
+
 ### Como usar?
 
 Para usar o typescript precisamos criar um arquivo com ts no final, assim:
